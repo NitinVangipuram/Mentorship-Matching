@@ -1,0 +1,29 @@
+.match-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .matches-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .match-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    background: #f9f9f9;
+    width: 300px;
+  }
+  
+  .match-card h3 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .match-card p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
